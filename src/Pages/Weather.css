@@ -1,0 +1,30 @@
+/* Weather.css */
+.weather-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .weather-card {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .weather-icon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .weather-container h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .weather-container p {
+    font-size: 18px;
+    color: #555;
+  }
+  
